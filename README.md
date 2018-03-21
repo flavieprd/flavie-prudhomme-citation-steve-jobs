@@ -4,3 +4,5 @@ Citation 1: Votre temps est limité, ne le gâchez pas en menant une existence q
 Citation 2: Etre l'homme le plus riche du cimetière ne m'intéresse pas. Aller me coucher le soir en me disant que j'ai des choses extraordinaire aujourd'hui, voilà ce qui compte.
 
 Citation 3: L'innovation, c'est une situation qu'on choisit parce qu'on a une passion brûlante pour quelque chose.
+
+Citation 4: Souvent, les gens ne savent pas ce qu'ils veulent jusqu'à ce que vous le leur montriez.
